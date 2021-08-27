@@ -1,9 +1,9 @@
-#                  𝐙𝐚𝐢𝐝 𝐏𝐥𝐚𝐲𝐞𝐫 𝐛𝐨𝐭🔥
+#                  IRONMAN 𝐛𝐨𝐭🔥
 
 
      Bot is Private 😜 
 
-![LOGO](https://telegra.ph/file/f586f8090d6e9aa4e0b00.jpg)
+![LOGO](hhttps://telegra.ph/file/e1bff37e0e4c003d28646.jpg)
 
 
 ### Requirements ([wiki](../../wiki/Requirements))
@@ -14,7 +14,7 @@
 
 ### Support
  
-- Zaid : [Support](https://t.me/zaid_team)
+- Zaid : [Support](https://t.me/ironmansupportgroup)
 
 ### Memes
 
